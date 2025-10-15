@@ -26,7 +26,7 @@ Create a HTML file and include the needed Bootstrap components.
 Publish the website in the LocalHost.
 
 ## PROGRAM :
-
+```
 pro.html
 
 <!DOCTYPE html>
@@ -166,7 +166,7 @@ shop.html
   </div>
 </body>
 </html>
-
+```
 ## OUTPUT:
 
 ![alt text](<Screenshot 2025-10-15 113424.png>)
